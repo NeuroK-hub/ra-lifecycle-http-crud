@@ -1,0 +1,30 @@
+
+.form-note {
+	max-width: 100%;
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+	margin: 20px;
+}
+
+.textarea-content, .send-button {
+	padding: 10px;
+	border: 0;
+	border-radius: 10px;
+	border: 1px solid black;
+}
+
+.textarea-content {
+	margin: 0px 10px 0px 0px;
+	width: 200px;
+}
+
+.label-content {
+	margin: 15px;
+	text-align: center;
+}
+
+.send-button {
+	cursor: pointer;
+	text-transform: uppercase;
+}
